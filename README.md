@@ -1,4 +1,4 @@
 # DataBase-and-KnimeProject-CAPTO
 DataBase and KnimeProject - Relevância do Entendimento do Domínio de Problema na Construção de Modelos Computacionais de Aprendizado
 
-O objetivo  deste trabalho é confirmar a relevância do entendimento prévio do domínio de problema para projetos em ciência de dados, especificamente para construção de modelos de aprendizado. Como estudos de caso consideraremos três domínios de problemas na área da saúde, e como fonte principal de dados, consideraremos a recente Pesquisa Nacional em Saúde, PNS 2019 elaborada pelo IBGE. Os experimentos mostram que o entendimento prévio do domínio de problema, e sua representação por meio de modelos conceituais, são úteis para aplicação de um processo de seleção conceitual de atributos na busca por modelos de aprendizado mais assertivos.
+
